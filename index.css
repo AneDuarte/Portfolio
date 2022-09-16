@@ -21,7 +21,7 @@ body {
 }
 
 .container-left .container-perfil {
-    width: 17vw;
+    width: 20vw;
     height: 32vh;
     border-radius: 1.5rem;
     margin-top: 3.5rem;
@@ -50,7 +50,7 @@ body {
 }
 
 .container-left .container-infos-gerais {
-    width: 17vw;
+    width: 20vw;
     height: 50vh;
     background-color: #302F3D;
     border-radius: 1.5rem;
@@ -72,6 +72,41 @@ body {
     height: 23px;
     margin-right: 1rem;
     margin-left: 2rem;
+}
+
+.container-left .container-tecnologias {
+    width: 20vw;
+    height: 20vh;
+    margin-top: 2.5rem;
+    background-color: #302F3D;
+    border-radius: 1.5rem;
+}
+
+.container-left .container-tecnologias h2 {
+    font-size: 17px;
+    margin: 1rem 2rem;
+}
+
+.container-left .container-tecnologias h2 {
+    font-size: 17px;
+    margin: 1rem 2rem;
+}
+
+.container-left .container-tecnologias .container-labels {
+    margin: 1rem 2rem;
+}
+
+.container-left .container-tecnologias .container-labels label {
+    background-color: #CB92B1;
+    border-radius: 1.5rem;
+    display: inline-block; 
+    width: 80px;
+    height: 10px;
+    padding: .5rem;
+    margin: .25rem .15rem;
+    font-size: 13px;
+    color: #000000;
+    /* centralizar texto */
 }
 
 .container-right {
